@@ -9,10 +9,10 @@ Make a change in your file and instantanously see your updates!
 
 Open your favorite Terminal and run these commands.
 
-First Tab:
+### Guide To Learn 
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+ - Code 
+ - Test
   
  | Application | Branch NAme |
 | ------ | ------ |
